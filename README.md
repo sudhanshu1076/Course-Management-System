@@ -1,8 +1,8 @@
-# Course-Management-System
-I developed this project using web technologies like Html, CSS, JavaScript, PHP and MySql.	
-Softwares Used: Visual Studio Code, XAMPP Server
-For Accessing this project, you have to open "login.php" page and then all the other pages are interconnected with it.
-For Database connectivity, change the username and password as accordingly to your system.
+# Course-Management-System <br />
+I developed this project using web technologies like Html, CSS, JavaScript, PHP and MySql. <br />	
+Softwares Used: Visual Studio Code, XAMPP Server. <br />
+For Accessing this project, you have to open "login.php" page and then all the other pages are interconnected with it. <br />
+For Database connectivity, change the username and password as accordingly to your system. <br />
 
 ![Screenshot 2022-10-19 222644](https://user-images.githubusercontent.com/68505373/196771571-671f8da0-01fa-43e0-b3c5-b5c56fa4f305.jpg)
 
